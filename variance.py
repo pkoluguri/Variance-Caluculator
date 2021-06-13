@@ -1,7 +1,6 @@
 import math
 from tkinter import *
 import tkinter
-from tkmacosx import Button
 import tkinter.messagebox
 
 def caluculate():
